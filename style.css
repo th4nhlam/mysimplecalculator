@@ -1,0 +1,53 @@
+body{
+    font-family: Roboto;
+    background: #373B44;
+    background: -webkit-linear-gradient(to right, #4286f4, #373B44);
+    background: linear-gradient(to right, #4286f4, #373B44);
+
+}
+#may_tinh{
+    width:320px;
+    height:520px;
+    background-color: thistle;
+    margin-left: 550px;
+}
+#ketqua{
+    height: 3000px;
+    text-align: right;
+}
+#ketquacu{
+    text-align: right;
+    height: 20px;
+    font-size: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    color: black;
+}
+#ban_phim{
+    height: 400px;
+}
+#xuatkq{
+    text-align: right;
+    padding-right: 15px;
+    font-size: 30px;
+    padding-top: 0px;
+    background-color: aliceblue;
+    border: black;
+    border-width: 3px;
+}
+.num, .system{
+    background-color: #eaedef
+}
+.system, .num, .blank{
+    width: 50px;
+    height: 50px;
+    margin: 15px;
+    float: left;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 15px;
+}
+.blank{
+    background-color: thistle;
+    border-width: 0;
+}
